@@ -56,5 +56,8 @@ Example JSON for POST `/trajectories/`:
   "step": 0.5
 }
 ```
-
 This will generate a coverage path that avoids the obstacle and store it in the SQLite database `trajectories.db`.
+
+## 
+![Screenshot (28)](https://github.com/user-attachments/assets/b4bd3b87-6181-483d-ab6f-8df5d3053757)
+![Screenshot (29)](https://github.com/user-attachments/assets/1bf64053-37ee-4ad0-93cf-051b0be470e2)
